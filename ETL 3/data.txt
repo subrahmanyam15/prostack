@@ -1,0 +1,10 @@
+Rest API info
+---------------
+usage: fetch all products
+Rest API URL:https://dummyjson.com/products
+Http Method:GET
+Required Fields: None
+Access Type : public 
+
+invoke above Rest API and write all beauty products into 
+Mysql - Product(p_id,prod_name,price,category,discount) table.

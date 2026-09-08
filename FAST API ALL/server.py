@@ -12,4 +12,4 @@ def about_page():
 
 @app.get("/contact", description="Contact Page")
 def contact_page():
-    return {'msg':'Contact Page'}
+    return {'msg':'Contact Page'} 

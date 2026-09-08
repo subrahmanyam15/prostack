@@ -1,7 +1,9 @@
 group of key:value pairs as one entity
 
-dpilcates leys are not allowed 
+dpilcates keys are not allowed 
 
 indexing not applicable 
+
+no order gurantee
 
 js object ---not iterable
